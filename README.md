@@ -6,11 +6,12 @@ The Iris dataset is a classic dataset in machine learning and statistics. It con
 
 Explore and visualize the Iris dataset to gain insights into the data.
 
-*Build several machine learning models for classification:
- Logistic Regression
- Decision Tree
- Random Forest
-*Evaluate model performance using accuracy score as the metric.
+Build several machine learning models for classification:
+Logistic Regression
+Decision Tree
+Random Forest
+
+Evaluate model performance using accuracy score as the metric.
 
 # Files
 ML Project.ipynb: google colab containing the code for data exploration, preprocessing, model building, and evaluation.
