@@ -15,11 +15,14 @@ Evaluate model performance using accuracy score as the metric.
 
 # Files
 ML Project.ipynb: google colab containing the code for data exploration, preprocessing, model building, and evaluation.
+
 iris.csv : The dataset used for training and testing the models.
+
 README.md: This file, providing an overview of the project.
 
 # Dependencies
 Python 3
+
 Libraries used:
 Pandas
 NumPy
@@ -42,7 +45,9 @@ Run the google colab ML_project.ipynb to see the code, visualizations, and resul
 
 # Results
 Logistic Regression: Achieved an accuracy of 0.9833333333333333.
+
 Decision Tree: Achieved an accuracy of 0.9666666666666667.(decrease of 2% compared to Logistic Regression and Random Forest).
+
 Random Forest: Achieved an accuracy of 0.9833333333333333.
 
 # Conclusion
