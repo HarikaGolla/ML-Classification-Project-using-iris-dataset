@@ -30,19 +30,6 @@ Matplotlib
 Scikit-learn
 seaborn
 Usage
-
-# Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/your_username/iris-classification.git
-cd iris-classification
-Install the required dependencies:
-
-Copy code
-pip install -r requirements.txt
-Run the google colab ML_project.ipynb to see the code, visualizations, and results.
-
 # Results
 Logistic Regression: Achieved an accuracy of 0.9833333333333333.
 
@@ -55,10 +42,3 @@ This project demonstrates the process of exploring a dataset, building classific
 
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-# In this template:
-
-Replace your_username in the GitHub clone link with your actual GitHub username or organization name.
-Update placeholders like X%, Y%, and Z% with the actual accuracy scores you achieved with each model.
-Customize the "Overview," "Files," "Dependencies," "Usage," "Results," and "Conclusion" sections to accurately reflect your project details and findings.
-This README provides a clear structure and information that will help others understand your project and how to use it. Adjust it further based on any additional details or insights you want to highlight about your specific implementation and results.
